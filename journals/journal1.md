@@ -1,7 +1,7 @@
 **The Wildcat WREC App has a poorly designed Login Design**
 
-![wrec dashboard](assets/barcode.png)
-![wrec login barcode](assets/dashboard.png)
+![wrec dashboard](barcode.png)
+![wrec login barcode](dashboard.png)
 
 I often find myself opening the Chico State WREC app to bypass the entry gate of the gym facility. Given my tight schedule I like to enter and exit the facility as smoothly as possible but I often find myself having a harder time enterring.
 
