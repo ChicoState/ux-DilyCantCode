@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Journal 1 — WREC App Login UX"
+permalink: /journals/journal1/
+---
+
 **The Wildcat WREC App has a poorly designed Login Design**
 
-![wrec dashboard](barcode.png)
-![wrec login barcode](dashboard.png)
+![wrec dashboard]({{ "/journals/barcode.png" | relative_url }})
+![wrec login barcode]({{ "/journals/dashboard.png" | relative_url }})
 
 I often find myself opening the Chico State WREC app to bypass the entry gate of the gym facility. Given my tight schedule I like to enter and exit the facility as smoothly as possible but I often find myself having a harder time enterring.
 
